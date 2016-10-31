@@ -20,7 +20,7 @@ namespace FieldEngineerLite
 
         // Placeholder string for Try App Service is ZUMOAPPURL
         // To use with your own app, use URL in the form https://your-site-name.azurewebsites.net/
-        private const string MobileUrl = "ZUMOAPPURL";
+        private const string MobileUrl = "http://engineerwlyh5w4mbdcps.azurewebsites.net/";
 
         public async Task InitializeAsync()
         {
